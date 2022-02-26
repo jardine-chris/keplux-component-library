@@ -1,5 +1,8 @@
 {
-  "name": "keplux-component-library",
+  "name": "@jardine-chris/keplux-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/jardine-chris"
+  },
   "version": "1.0.0",
   "description": "A React-based component library.",
   "main": "dist/cjs/index.js",
